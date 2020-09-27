@@ -12,7 +12,7 @@ import (
 	"strings"
 	"text/template"
 
-	"gopkg.in/russross/blackfriday.v2"
+	"github.com/russross/blackfriday/v2"
 )
 
 var (
