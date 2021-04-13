@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	blackfriday "gopkg.in/russross/blackfriday.v2"
+	blackfriday "github.com/russross/blackfriday/v2"
 )
 
 // https://github.com/russross/blackfriday/blob/v2/markdown.go
